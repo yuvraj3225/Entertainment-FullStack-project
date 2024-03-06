@@ -154,7 +154,7 @@ To run this project locally, make sure you have the following installed:
 
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to us at [Gmail]<a href="yuvrajlungade3774@gmail.com">.
+If you have any questions or suggestions, feel free to reach out to us at   [yuvrajlungade3774@gmail.coml.com](mailto:yuvrajlungade3774@gmail.com)
 
 ## Acknowledgment
 We'd like to thank the open-source community and the creators of Node.js, Express, and MongoDB for their valuable contributions.
